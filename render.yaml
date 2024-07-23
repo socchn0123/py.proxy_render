@@ -1,5 +1,5 @@
 services:
-  - type: redis
+  - type: web
     name: python
     env: python
     region: Oregon
